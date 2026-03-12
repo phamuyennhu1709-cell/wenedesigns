@@ -229,7 +229,7 @@ export default function App() {
             <div className="relative">
               <div className="absolute -top-10 -left-10 w-40 h-40 bg-beige-100 rounded-full -z-10" />
              <img 
-  src="testimonial.webp" 
+  src="/testimonial.webp" 
   alt="Clinic Transformation"
   className="rounded-2xl shadow-xl w-full object-cover aspect-[4/5]"
   referrerPolicy="no-referrer"
