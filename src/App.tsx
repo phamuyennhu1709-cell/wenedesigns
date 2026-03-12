@@ -116,7 +116,7 @@ export default function App() {
             transition={{ delay: 0.1 }}
             className="font-serif font-medium text-brown-900 mb-12"
           >
-            Helping Aesthetic Clinics Attract High-Ticket Clients on Autopilot in Just 14 Days with Premium Branding & High-Converting Websites
+            Helping Aesthetic Clinics Attract High-Ticket Clients on Autopilot in Just 30 Days with Premium Branding & High-Converting Websites
           </motion.h1>
 
 
